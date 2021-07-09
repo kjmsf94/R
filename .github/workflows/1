@@ -1,0 +1,4 @@
+#lets first create a vector of nine movies
+movie_vector <- c("Akira", "Toy Story", "Room", "The Wave", "Whiplash",
+                  "Star Wars", "The Ring", "The Artist", "Jumanji")
+movie_vector
